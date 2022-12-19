@@ -1,0 +1,10 @@
+{
+    "registerAndLoginBody": {
+        "email": "eve.holt@reqres.in",
+        "password": "pistol"
+    },
+    "registerResponseBody": {
+        "id": 4,
+        "token": "QpwL5tke4Pnpja7X4"
+    }
+}
